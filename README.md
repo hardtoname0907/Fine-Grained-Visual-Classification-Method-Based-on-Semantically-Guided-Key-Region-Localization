@@ -1,4 +1,4 @@
-# [IJCNN2025] SG-KRL
+# SG-KRL
 
 ## Overview
 This repository contains the official implementation of [IJCNN2025]"Fine-Grained Visual Classification Method Based on Semantically Guided Key Region Localization".
